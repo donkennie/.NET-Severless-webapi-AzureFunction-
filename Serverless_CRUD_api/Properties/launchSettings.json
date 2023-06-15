@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Serverless_CRUD_api": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7089",
+      "launchBrowser": false
+    }
+  }
+}
