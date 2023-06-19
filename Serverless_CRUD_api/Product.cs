@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace Serverless_CRUD_api
 {
-    internal class Product
+    public class Product
     {
+        public int Id { get; set; }
+        public string Name { get; set; }
+        public decimal Price { get; set; }
     }
 }
